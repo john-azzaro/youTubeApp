@@ -5,3 +5,6 @@ youTubeApp is a small app with basic features to explore asynchronous requests a
 
 ## What technology is used?
 HTML, CSS, JavaScript, jQuery, and API (AJAX, JSON, etc.)
+
+## Are there any additional resources?
+https://developers.google.com/youtube/v3/docs/
